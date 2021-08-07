@@ -2,4 +2,4 @@
 convolutional variational autoencoders for image clustering
 
 ## TODO:
--SOON THE SUPPLEMENTARY RESULTS WILL BE UPLOADED
+- SOON THE SUPPLEMENTARY RESULTS WILL BE UPLOADED
