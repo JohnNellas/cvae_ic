@@ -1,5 +1,3 @@
 # cvae_ic
-convolutional variational autoencoders for image clustering
+convolutional variational autoencoders for image clustering supplementary results.
 
-## TODO:
-- UPLOAD : SUPPLEMENTARY RESULTS
