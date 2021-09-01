@@ -1,3 +1,3 @@
-# Convolutional Variational Autoencodersfor Image Clustering
-convolutional variational autoencoders for image clustering supplementary results.
+# Convolutional Variational Autoencoders for Image Clustering
+Convolutional Variational Autoencoders for Image Clustering supplementary results.
 
